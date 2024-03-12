@@ -1,2 +1,9 @@
-# Leitura
-projeto de leitura gas/agua/luz. 
+## SOBRE
+-- O projeto esta sendo criado por fim de estudo. 
+-- modelo sera da ultra-gaz.
+
+# REQUISITO
+-- login
+-- Codominios
+-- blocos
+-- apts
